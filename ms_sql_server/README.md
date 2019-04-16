@@ -1,3 +1,3 @@
-[Common](./ms_sql_server/common.md)
+[Common](./common.md)
 
-[Partitioning](./ms_sql_server/partitioning.md)
+[Partitioning](./partitioning.md)
